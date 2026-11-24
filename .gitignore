@@ -1,0 +1,11 @@
+/app/config.php
+/.env
+/.env.*
+*.zip
+*.log
+*.bak
+*.dump
+/database/*.sql
+!/database/schema.sql
+/node_modules/
+/vendor/
